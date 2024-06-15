@@ -1,6 +1,4 @@
 <?php 
-# ERKAN KAVAS
-
 $json_file = 'data.json';
 $json_data = file_get_contents($json_file);
 
@@ -25,8 +23,7 @@ if ($data === null) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Matches</title>
-    <!-- Bootstrap CSS -->
+    <title>Euro 2024</title>
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
@@ -42,6 +39,7 @@ if ($data === null) {
                         <th>Team 1</th>
                         <th>Team 2</th>
                         <th>Group</th>
+                        <th>Score</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -55,6 +53,7 @@ if ($data === null) {
                                 <td><?php echo $match['team1']['name'] . ' (' . $match['team1']['code'] . ')'; ?></td>
                                 <td><?php echo $match['team2']['name'] . ' (' . $match['team2']['code'] . ')'; ?></td>
                                 <td><?php echo $match['group']; ?></td>
+                                <td><?php echo $match['score'] ?? "";?></td>
                             </tr>
                         <?php endforeach; ?>
                     <?php endforeach; ?>
@@ -65,7 +64,5 @@ if ($data === null) {
         <?php endif; ?>
     </div>
 
-    <!-- Bootstrap JS (optional) -->
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>

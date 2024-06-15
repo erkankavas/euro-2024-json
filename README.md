@@ -16,3 +16,9 @@ To run this software, you can utilize a PHP-supported web hosting service or set
 ## Screenshots
 
 ![Working...](https://github.com/erkankavas/euro-2024-json/blob/main/demo.png)
+
+## Support & Advice
+
+https://x.com/erkankavas
+
+https://www.linkedin.com/in/erkankavas/

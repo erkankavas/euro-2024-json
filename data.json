@@ -16,7 +16,8 @@
             "name": "Scotland",
             "code": "SCO"
           },
-          "group": "Group A"
+          "group": "Group A",
+          "score": "5-1"
         },
         {
           "num": 2,
@@ -30,7 +31,8 @@
             "name": "Switzerland",
             "code": "SUI"
           },
-          "group": "Group A"
+          "group": "Group A",
+          "score": "1-3"
         },
         {
           "num": 7,
@@ -44,7 +46,8 @@
             "name": "Croatia",
             "code": "CRO"
           },
-          "group": "Group B"
+          "group": "Group B",
+          "score": "3-0"
         },
         {
           "num": 8,
@@ -58,7 +61,8 @@
             "name": "Albania",
             "code": "ALB"
           },
-          "group": "Group B"
+          "group": "Group B",
+          "score": "2-1"
         },
         {
           "num": 13,
