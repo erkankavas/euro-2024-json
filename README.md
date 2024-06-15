@@ -12,3 +12,7 @@ With this software, you can start following the matches of the Euro 2024 champio
 ## How to Run?
 
 To run this software, you can utilize a PHP-supported web hosting service or set up a local environment with your own PHP-enabled domain. Whether you choose to deploy it on a reliable web hosting platform for global accessibility or prefer the flexibility of a local setup tailored to your specific needs, PHP's versatile capabilities ensure compatibility and seamless operation. Whether you're developing, testing, or deploying applications, leveraging PHP's robust ecosystem empowers you to create dynamic and scalable solutions tailored to your requirements, fostering innovation and efficiency in your development processes.
+
+## Screenshots
+
+![Working...](https://github.com/erkankavas/euro-2024-json/blob/main/demo.png)
