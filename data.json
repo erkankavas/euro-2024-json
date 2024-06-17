@@ -76,7 +76,8 @@
             "name": "Denmark",
             "code": "DEN"
           },
-          "group": "Group C"
+          "group": "Group C",
+          "score": "1-1"
         },
         {
           "num": 14,
@@ -90,7 +91,8 @@
             "name": "England",
             "code": "ENG"
           },
-          "group": "Group C"
+          "group": "Group C",
+          "score": "0-1"
         },
         {
           "num": 19,
@@ -104,7 +106,8 @@
             "name": "Netherlands",
             "code": "NED"
           },
-          "group": "Group D"
+          "group": "Group D",
+          "score": "1-2"
         },
         {
           "num": 20,
