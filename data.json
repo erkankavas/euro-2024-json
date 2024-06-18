@@ -166,7 +166,8 @@
             "name": "Georgia",
             "code": "GEO"
           },
-          "group": "Group F"
+          "group": "Group F",
+          "score": "3-1"
         },
         {
           "num": 32,
@@ -180,7 +181,8 @@
             "name": "Czech Republic",
             "code": "CZE"
           },
-          "group": "Group F"
+          "group": "Group F",
+          "score": "2-1"
         }
       ]
     },
