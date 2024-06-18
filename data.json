@@ -121,7 +121,8 @@
             "name": "France",
             "code": "FRA"
           },
-          "group": "Group D"
+          "group": "Group D",
+          "score": "0-1"
         },
         {
           "num": 25,
@@ -135,7 +136,8 @@
             "name": "Ukraine",
             "code": "UKR"
           },
-          "group": "Group E"
+          "group": "Group E",
+          "score": "3-0"
         },
         {
           "num": 26,
@@ -149,7 +151,8 @@
             "name": "Slovakia",
             "code": "SVK"
           },
-          "group": "Group E"
+          "group": "Group E",
+          "score": "0-1"
         },
         {
           "num": 31,
