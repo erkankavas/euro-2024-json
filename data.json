@@ -201,7 +201,8 @@
             "name": "Hungary",
             "code": "HUN"
           },
-          "group": "Group A"
+          "group": "Group A",
+          "score": "2-0"
         },
         {
           "num": 4,
@@ -215,7 +216,8 @@
             "name": "Switzerland",
             "code": "SUI"
           },
-          "group": "Group A"
+          "group": "Group A",
+          "score": "1-1"
         },
         {
           "num": 9,
@@ -229,7 +231,8 @@
             "name": "Albania",
             "code": "ALB"
           },
-          "group": "Group B"
+          "group": "Group B",
+          "score": "2-2"
         },
         {
           "num": 10,
