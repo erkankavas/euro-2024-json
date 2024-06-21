@@ -246,7 +246,8 @@
             "name": "Italy",
             "code": "ITA"
           },
-          "group": "Group B"
+          "group": "Group B",
+          "score": "1-0"
         },
         {
           "num": 15,
@@ -260,7 +261,8 @@
             "name": "Serbia",
             "code": "SRB"
           },
-          "group": "Group C"
+          "group": "Group C",
+          "score": "1-1"
         },
         {
           "num": 16,
@@ -274,7 +276,8 @@
             "name": "England",
             "code": "ENG"
           },
-          "group": "Group C"
+          "group": "Group C",
+          "score": "1-1"
         },
         {
           "num": 21,
