@@ -314,7 +314,8 @@
             "name": "Romania",
             "code": "ROU"
           },
-          "group": "Group E"
+          "group": "Group E",
+          "score": "2-0"
         },
         {
           "date": "2024-06-22",
@@ -327,7 +328,8 @@
             "name": "Czech Republic",
             "code": "CZE"
           },
-          "group": "Group F"
+          "group": "Group F",
+          "score": "1-1"
         },
         {
           "date": "2024-06-22",
@@ -340,7 +342,8 @@
             "name": "Portugal",
             "code": "POR"
           },
-          "group": "Group F"
+          "group": "Group F",
+          "score": "0-3"
         }
       ]
     },
