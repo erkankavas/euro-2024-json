@@ -361,7 +361,8 @@
             "name": "Germany",
             "code": "GER"
           },
-          "group": "Group A"
+          "group": "Group A",
+          "score": "1-1"
         },
         {
           "date": "2024-06-23",
@@ -374,7 +375,8 @@
             "name": "Hungary",
             "code": "HUN"
           },
-          "group": "Group A"
+          "group": "Group A",
+          "score": "0-1"
         },
         {
           "date": "2024-06-24",
