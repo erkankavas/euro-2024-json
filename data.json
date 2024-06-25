@@ -417,7 +417,8 @@
             "name": "Slovenia",
             "code": "SVN"
           },
-          "group": "Group C"
+          "group": "Group C",
+          "score": "0-0"
         },
         {
           "date": "2024-06-25",
@@ -430,7 +431,8 @@
             "name": "Serbia",
             "code": "SRB"
           },
-          "group": "Group C"
+          "group": "Group C",
+          "score": "0-0"
         },
         {
           "date": "2024-06-25",
@@ -443,7 +445,8 @@
             "name": "Austria",
             "code": "AUT"
           },
-          "group": "Group D"
+          "group": "Group D",
+          "score": "2-3"
         },
         {
           "date": "2024-06-25",
@@ -456,7 +459,8 @@
             "name": "Poland",
             "code": "POL"
           },
-          "group": "Group D"
+          "group": "Group D",
+          "score": "1-1"
         },
         {
           "date": "2024-06-26",
