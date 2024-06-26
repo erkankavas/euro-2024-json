@@ -473,7 +473,8 @@
             "name": "Romania",
             "code": "ROU"
           },
-          "group": "Group E"
+          "group": "Group E",
+          "score": "1-1"
         },
         {
           "date": "2024-06-26",
@@ -486,7 +487,8 @@
             "name": "Belgium",
             "code": "BEL"
           },
-          "group": "Group E"
+          "group": "Group E",
+          "score": "0-0"
         },
         {
           "date": "2024-06-26",
@@ -499,7 +501,8 @@
             "name": "Portugal",
             "code": "POR"
           },
-          "group": "Group F"
+          "group": "Group F",
+          "score": "2-0"
         },
         {
           "date": "2024-06-26",
@@ -512,7 +515,109 @@
             "name": "Turkey",
             "code": "TUR"
           },
-          "group": "Group F"
+          "group": "Group F",
+          "score": "1-2"
+        }
+      ]
+    },
+      {
+      "name": "Round of 16",
+      "matches": [
+        {
+          "date": "2024-06-29",
+          "time": "18:00",
+          "team1": {
+            "name": "Switzerland",
+            "code": "SUI"
+          },
+          "team2": {
+            "name": "Italy",
+            "code": "ITA"
+          }
+        },
+        {
+          "date": "2024-06-29",
+          "time": "21:00",
+          "team1": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "team2": {
+            "name": "Denmark",
+            "code": "DEN"
+          }
+        },
+         {
+          "date": "2024-06-30",
+          "time": "18:00",
+          "team1": {
+            "name": "England",
+            "code": "ENG"
+          },
+          "team2": {
+            "name": "Slovakia",
+            "code": "SVK"
+          }
+        },
+        {
+          "date": "2024-06-30",
+          "time": "21:00",
+          "team1": {
+            "name": "Spain",
+            "code": "ESP"
+          },
+          "team2": {
+            "name": "Georgia",
+            "code": "GEO"
+          }
+        },
+        {
+          "date": "2024-07-01",
+          "time": "18:00",
+          "team1": {
+            "name": "France",
+            "code": "FRA"
+          },
+          "team2": {
+            "name": "Belgium",
+            "code": "BEL"
+          }
+        },
+        {
+          "date": "2024-07-01",
+          "time": "21:00",
+          "team1": {
+            "name": "Portugal",
+            "code": "POR"
+          },
+          "team2": {
+            "name": "Slovenia",
+            "code": "SVN"
+          }
+        }, 
+        {
+          "date": "2024-07-02",
+          "time": "18:00",
+          "team1": {
+            "name": "Romania",
+            "code": "ROU"
+          },
+          "team2": {
+            "name": "Netherlands",
+            "code": "NED"
+          }
+        },
+        {
+          "date": "2024-07-02",
+          "time": "21:00",
+          "team1": {
+            "name": "Austria",
+            "code": "AUT"
+          },
+          "team2": {
+            "name": "Turkey",
+            "code": "TUR"
+          }
         }
       ]
     }

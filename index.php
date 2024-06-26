@@ -46,7 +46,7 @@ if ($data === null) {
                                 <td><?php echo $match['time']; ?></td>
                                 <td><?php echo $match['team1']['name'] . ' (' . $match['team1']['code'] . ')'; ?></td>
                                 <td><?php echo $match['team2']['name'] . ' (' . $match['team2']['code'] . ')'; ?></td>
-                                <td><?php echo $match['group']; ?></td>
+                                <td><?php echo $match['group'] ?? "";?></td>
                                 <td><?php echo $match['score'] ?? "";?></td>
                             </tr>
                         <?php endforeach; ?>
