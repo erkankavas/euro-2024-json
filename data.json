@@ -533,7 +533,8 @@
           "team2": {
             "name": "Italy",
             "code": "ITA"
-          }
+          },
+          "score": "2-0"
         },
         {
           "date": "2024-06-29",
@@ -545,7 +546,8 @@
           "team2": {
             "name": "Denmark",
             "code": "DEN"
-          }
+          },
+          "score": "2-0"
         },
          {
           "date": "2024-06-30",
