@@ -585,7 +585,8 @@
           "team2": {
             "name": "Belgium",
             "code": "BEL"
-          }
+          },
+          "score": "1-0"
         },
         {
           "date": "2024-07-01",
@@ -597,7 +598,8 @@
           "team2": {
             "name": "Slovenia",
             "code": "SVN"
-          }
+          },
+          "score": "3-0"
         }, 
         {
           "date": "2024-07-02",
