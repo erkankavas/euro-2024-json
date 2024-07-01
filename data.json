@@ -559,7 +559,8 @@
           "team2": {
             "name": "Slovakia",
             "code": "SVK"
-          }
+          },
+          "score": "2-1"
         },
         {
           "date": "2024-06-30",
@@ -571,7 +572,8 @@
           "team2": {
             "name": "Georgia",
             "code": "GEO"
-          }
+          },
+          "score": "4-1"
         },
         {
           "date": "2024-07-01",
