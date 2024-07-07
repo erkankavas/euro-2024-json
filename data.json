@@ -642,7 +642,8 @@
           "team2": {
             "name": "Germany",
             "code": "GER"
-          }
+          },
+          "score": "2-1"
         },
         {
           "date": "2024-07-05",
@@ -654,7 +655,8 @@
           "team2": {
             "name": "France",
             "code": "FRA"
-          }
+          },
+          "score": "3-5"
         },
          {
           "date": "2024-07-06",
@@ -666,7 +668,8 @@
           "team2": {
             "name": "Switzerland",
             "code": "SUI"
-          }
+          },
+          "score": "5-3"
         },
         {
           "date": "2024-07-06",
@@ -678,6 +681,36 @@
           "team2": {
             "name": "Turkey",
             "code": "TUR"
+          },
+          "score": "2-1"
+        }
+      ]
+    },
+       {
+      "name": "Semi Final",
+      "matches": [
+        {
+          "date": "2024-07-10",
+          "time": "21:00",
+          "team1": {
+            "name": "Spain",
+            "code": "ESP"
+          },
+          "team2": {
+            "name": "France",
+            "code": "FRA"
+          }
+        },
+        {
+          "date": "2024-07-11",
+          "time": "21:00",
+          "team1": {
+            "name": "Netherlands",
+            "code": "NED"
+          },
+          "team2": {
+            "name": "England",
+            "code": "ENG"
           }
         }
       ]
