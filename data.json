@@ -699,7 +699,8 @@
           "team2": {
             "name": "France",
             "code": "FRA"
-          }
+          },
+          "score": "2-1"
         },
         {
           "date": "2024-07-11",
