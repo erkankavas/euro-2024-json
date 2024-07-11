@@ -712,7 +712,26 @@
           "team2": {
             "name": "England",
             "code": "ENG"
-          }
+          },
+          "score": "1-2"
+        }
+      ]
+    },
+    {
+      "name": "Grand Final",
+      "matches": [
+        {
+          "date": "2024-07-15",
+          "time": "21:00",
+          "team1": {
+            "name": "Spain",
+            "code": "ESP"
+          },
+          "team2": {
+            "name": "England",
+            "code": "ENG"
+          },
+          "score": "2-1"
         }
       ]
     }
